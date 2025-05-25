@@ -7,10 +7,10 @@
 
 ## 🛠️ languages i do use
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus&logoColor=white&color=black)
+![Static Badge](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white&color=black)
+![Static Badge](https://img.shields.io/badge/Gamemaker-black?style=for-the-badge&logo=gamemaker&logoColor=white&color=black)
+![Static Badge](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino&logoColor=white&color=black)
 
 ---
 
@@ -24,4 +24,4 @@
 
 ## 💬 chat
 
-![Discord](https://img.shields.io/badge/Discord-00599C?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/6sdWe6gj9W)
+![Static Badge](https://img.shields.io/badge/Lumina_Solus_Discord-black?style=for-the-badge&logo=discord&logoColor=white&color=black&link=https://discord.gg/6sdWe6gj9W)
