@@ -1,7 +1,7 @@
-# 👋 hello
+# hello
 > `sudo rm rf`
 
-🧠 studying Java, C++, and dreaming with Quantum Physics
+🧠 studying Java & C++
 
 ---
 
