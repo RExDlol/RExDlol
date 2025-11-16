@@ -24,4 +24,4 @@
 
 ## 💬 chat
 
-![Static Badge](https://img.shields.io/badge/Lumina_Solus_Discord-black?style=for-the-badge&logo=discord&logoColor=white&color=black&link=https://discord.gg/6sdWe6gj9W)
+![Static Badge](https://img.shields.io/badge/Lumina_Solus_Discord-black?style=for-the-badge&logo=discord&logoColor=white&color=black&link=https://discord.gg/QQUfTtvgaK)
