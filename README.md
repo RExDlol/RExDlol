@@ -1,11 +1,11 @@
 # hello
 > `sudo rm rf`
 
-🧠 studying Java & C++
+studying Java & C++
 
 ---
 
-## 🛠️ languages i do use
+## languages i do use
 
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus&logoColor=white&color=black)
 ![Static Badge](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white&color=black)
@@ -14,7 +14,7 @@
 
 ---
 
-## 📚 studying NOW
+## studying NOW
 
 - java (to enter the dev's market)
 - linear algebra and quantum physics (i dont really know why just yes lol)
@@ -22,7 +22,7 @@
 
 ---
 
-## 💬 chat
+## chat
 
 ![Static Badge](https://img.shields.io/badge/Lumina_Solus_Discord-black?style=for-the-badge&logo=discord&logoColor=white&color=black&link=https://discord.gg/QQUfTtvgaK)
 
